@@ -1,5 +1,36 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-
+.q3_content{
+    width: 100%;
+    border: 1px solid #dedede;
+    table-layout: fixed;
+}
 /* 回答はここに書いてね */
+
+.q3_content th ,.q3_content td {
+    padding: 10px;
+    border: 1px solid #dedede;
+}
+
+.q3_content th {
+    background-color: #24a;
+    color: #fff;
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .q3_content td {
+    line-height: 22px;
+    text-align: center;
+  }
+
+
+
+.q3_content tr:nth-child(even){
+    background-color: #ecf1f2;
+}
+
+tbody tr:last-child{
+   border-top: dashed #000 2px;
+}
