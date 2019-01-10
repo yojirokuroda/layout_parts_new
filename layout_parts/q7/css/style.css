@@ -61,9 +61,23 @@
   box-sizing: border-box;
 
 }
+.is-stable{
+  display: inline-block;
+  width: 300px;
+  box-sizing: border-box;
+}
+.is-flexible{
+  display: inline-block;
+  width: 100%;
+  margin-left: -300px;
+  padding-left: 350px;
+  box-sizing: border-box;
+  vertical-align: top;
+}
 
-
-
+.q7 .q7__inner{
+  font-size: 0;
+}
 
 
 /* 回答はここに書いてね */
