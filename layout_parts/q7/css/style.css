@@ -13,28 +13,28 @@
     clear: both;
 }
 
-.q7--float .q7__box.content:first-child{
-    margin-left: 0
-}
-
 .q7--float .q7__box.content{
     float:left;
     margin-left: 50px;
     box-sizing: border-box;
 }
 
-.q7_2{
-    display: table;
+.q7--float .q7__box.content:first-child{
+    margin-left: 0
 }
 
-.q7_2 .q7_2_text:first-child {
-    padding-left: 0;
+.q7_2{
+    display: table;
 }
 
 .q7_2 .q7_2_text{
     vertical-align: middle;
     display: table-cell;
     padding-left: 50px;
+}
+
+.q7_2 .q7_2_text:first-child {
+    padding-left: 0;
 }
 
 .q7_3{
