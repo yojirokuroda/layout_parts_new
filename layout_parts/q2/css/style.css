@@ -5,33 +5,28 @@
 
 .q2__content {
   margin: 0 auto;
-  padding-top: 20px;
-  width: 940px;
-  box-sizing: border-box;
+  padding: 20px;
+  width: 900px;
+  background-color: #eff3f4;
 }
 
 .img{
-  margin: 20px;
-  margin: 0 auto;
-  padding: 20px;
+  float: left;
+  margin-bottom: 10px;
 }
 
 .img.left{
-  float: left;
-  padding-left: 20px;
-  padding-right: 20px;
+  margin-right: 20px
 }
 
 .img.right{
   float: right;
-  padding-left: 20px;
+  margin-left: 20px;
 }
 
 .q2__content__text {
   font-size: 18px;
   line-height: 22px;
-  background-color: #eff3f4;
-  padding: 20px;
   word-break: break-all;
 }
 /* 回答はここに書いてね */
