@@ -4,29 +4,29 @@
 
 
 .q2__content {
-  margin: 0 auto;
-  padding: 20px;
-  width: 900px;
-  background-color: #eff3f4;
+    margin: 0 auto;
+    padding: 20px;
+    width: 900px;
+    background-color: #eff3f4;
 }
 
 .img{
-  float: left;
-  margin-bottom: 10px;
+    float: left;
+    margin-bottom: 10px;
 }
 
 .img.left{
-  margin-right: 20px
+    margin-right: 20px
 }
 
 .img.right{
-  float: right;
-  margin-left: 20px;
+    float: right;
+    margin-left: 20px;
 }
 
 .q2__content__text {
-  font-size: 18px;
-  line-height: 22px;
-  word-break: break-all;
+    font-size: 18px;
+    line-height: 22px;
+    word-break: break-all;
 }
 /* 回答はここに書いてね */

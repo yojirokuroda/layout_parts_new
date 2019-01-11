@@ -27,7 +27,7 @@
     background-color: #DE70CF;
 }
 
-.q5_box.is_8:after {
+.is_8:after {
     position: absolute;
     top: 0;
     right: 0;
