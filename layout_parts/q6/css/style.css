@@ -11,6 +11,9 @@
     background-color: #E6F2FF;
     display: inline-block;
   }
+.is--margin .q6__box__text {
+    margin: 0 auto;
+}
 
 .is--table{
   display:table;

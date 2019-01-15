@@ -7,28 +7,28 @@
     table-layout: fixed;
 }
 
-th , td {
+.q3_content th , td {
     padding: 10px;
     border: 1px solid #dedede;
 }
 
-th {
+.q3_content th {
     background-color: #24a;
     color: #fff;
     font-size: 18px;
     line-height: 26px;
   }
 
-td {
+.q3_content td {
     line-height: 22px;
     text-align: center;
   }
 
-tbody tr:nth-child(even){
+.q3_content tbody tr:nth-child(even){
     background-color: #ecf1f2;
 }
 
-tbody tr:last-child{
+.q3_content tbody tr:last-child{
     border-top: dashed #000 2px;
 }
 /* 回答はここに書いてね */

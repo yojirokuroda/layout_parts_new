@@ -216,6 +216,11 @@
   line-height: 26px;
 }
 
+.q8__main__bottom__btn:active {
+  background-color: #FFF;
+  color: #00BCD4;
+}
+
 .q8__select {
   position: relative;
 }
