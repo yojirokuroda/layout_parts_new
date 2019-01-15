@@ -5,7 +5,7 @@
   text-align: center;
 }
 
-.q6--horizontal .q6__box__text {
+.q6_text_align .q6__box__text {
     padding: 10px 0;
     width: 90px;
     background-color: #E6F2FF;
@@ -14,6 +14,9 @@
 
 .is--margin .q6__box__text {
     margin: 0 auto;
+    padding: 10px 0;
+    width: 90px;
+    background-color: #E6F2FF;
 }
 
 .is--table{
